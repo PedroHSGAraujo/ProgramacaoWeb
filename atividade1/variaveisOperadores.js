@@ -17,4 +17,4 @@ var resultDivisao = divisao1 / divisao2;
 console.log("O resultado da divisão entre " + divisao1 + " e " + divisao2 + " é: " + resultDivisao);
 console.log("O resultado da multiplicação entre " + multi1 + " e " + multi2 + " é: " + resultMulti);
 console.log("O resultado da soma entre " + soma1 + " e " + soma2 + " é: " + resultSoma);
-console.log("O resultado da soma entre " + subtracao1 + " e " + subtracao2 + " é: " + resultSub);
+console.log("O resultado da subtração entre " + subtracao1 + " e " + subtracao2 + " é: " + resultSub);
